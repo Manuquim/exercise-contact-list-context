@@ -3,7 +3,7 @@
 Tecnologías: HTML, CSS, JS, React, React Router and Context.
 
 ¡Hola! Es hora de empezar a hacer aplicaciones frontales profesionales. Esta vez
-Crearemos una pequeña aplicación de gestión de contactos que permitirá a los usuarios:
+crearemos una pequeña aplicación de gestión de contactos que permitirá a los usuarios:
 Leer, crear, actualizar y eliminar contactos. 
 
 Puedes usar este gif:
